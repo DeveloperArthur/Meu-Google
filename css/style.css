@@ -1,0 +1,20 @@
+#gbar, #guser {
+	font-size: 13px;
+	padding-top: 1px !important;
+}
+
+body, td, a, p{
+	font-family: arial, sans-serif
+}
+
+@media all {
+	.gb1 {
+		height: 22px;
+		margin-right: .5em;
+		vertical-align: top
+	}
+
+	#gbar {
+		float: left
+	}
+}
